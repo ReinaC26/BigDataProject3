@@ -23,8 +23,9 @@ pip install pyspark
 python3 main.py
 
 ## Results
-                  Random Forest    Gradient Boosting
-F1 Score              0.9535            0.9650
-Precision             0.9535            0.9652
-Recall                0.9535            0.9651
-Accuracy              95.3488%          96.5116%
+| Metric    | Random Forest | Gradient Boosting |
+|-----------|---------------|-------------------|
+| F1 Score  | 0.9535        | 0.9650            |
+| Precision | 0.9535        | 0.9652            |
+| Recall    | 0.9535        | 0.9651            |
+| Accuracy  | 95.35%        | 96.51%            |
